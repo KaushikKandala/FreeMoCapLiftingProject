@@ -1,0 +1,9 @@
+[project]
+dynamic = ["version"]
+name = "lifting"
+dependencies = [
+    "skellymodels@git+https://github.com/aaroncherian/skellymodels",
+    "scipy",
+    "matplotlib"
+]
+
